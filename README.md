@@ -1,3 +1,6 @@
+本项目摘自博客https://p3terx.com/archives/build-openwrt-with-github-actions.html
+主要为action 中编译 精简版本的openwrt固件。
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
